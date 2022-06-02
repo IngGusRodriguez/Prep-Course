@@ -1,0 +1,15 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+Variables.
+
+1. Strings: Son datos en los que puedes almacenar texto, como una oración por ejemplo.
+
+2. Funciones (argumentos, return): Es un conjunto de código que puedes utilizar para asignarle una función
+por ejemplo, para devolver cualquier dato que quieras.
+
+3. Declaraciones if: Es para crear una condición, por ejemplo, si tal cosa cumple con estas caracteristicas,
+entonces quiero que muestre esto, de lo contrario con "else" podemos hacer que muestre otra cosa si
+es que no se cumplió lo especificado al principio con if.
+
+4. Valores booleanos (true, false): Los utilizamos para tener 2 opciones en el código, por ejemplo: verdad o falso 
+los utilizamos en las declaraciones, como ya mencioné anteriormente, cuando queremos condicionar
+podemos utilizar los datos booleanos para tener más de una opción para nuestra condición.
